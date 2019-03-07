@@ -1,0 +1,19 @@
+{
+  "name": "inclass_nodebuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelenUnger/INCLASS_nodebuild.git"
+  },
+  "author": "Helen Unger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelenUnger/INCLASS_nodebuild/issues"
+  },
+  "homepage": "https://github.com/HelenUnger/INCLASS_nodebuild#readme"
+}
